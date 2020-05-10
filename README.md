@@ -1,3 +1,3 @@
 # dev_camp_team_03
 
-サロンマネージャー Flutterアプリ
+ダイエットに役に立つ、Flutterアプリ
